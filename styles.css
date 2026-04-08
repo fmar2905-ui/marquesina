@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.marquesina {
+    width: 100%;
+    overflow: hidden;
+    background-color: #222;
+    color: #fff;
+    padding: 15px 0;
+    position: relative;
+}
+
+.texto {
+    display: inline-block;
+    white-space: nowrap;
+    position: absolute;
+    will-change: transform;
+    font-size: 20px;
+}
